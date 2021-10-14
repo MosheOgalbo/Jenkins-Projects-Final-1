@@ -7,4 +7,4 @@ def word_count():
             for word in words:
                 if word == "Alex":
                     count += 1
-    return  count
+    return count
