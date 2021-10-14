@@ -1,6 +1,6 @@
 def word_count():
     count = 0
-    with open("python3 file.txt") as f:
+    with open("C:\\Users\\alexk\\Desktop\\JENKINS_PROJECT\\file.txt") as f:
         data =f.readLines()
         for line in data:
             words = line.split()
