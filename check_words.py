@@ -8,3 +8,4 @@ def word_count():
                 if word == "Alex":
                     count += 1
     return count
+print(word_count())
